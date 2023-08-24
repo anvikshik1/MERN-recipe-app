@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  height: 100% ;
+  background-color: #1f2833;
+}
+.App {
+  text-align: center;
+}
+.bgColor{
+  background-color: #191a1f;
+}
+.bg-box{
+  background-color: #304140;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+}
+.form-label{
+  width: 100%;
+}
